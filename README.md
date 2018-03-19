@@ -1,1 +1,11 @@
-# Experiment_of_Compiling_Principle
+# 编译原理实验内容
+
+### 文件夹说明
+
+1. DFA：DFA的编程实现
+
+### 操作记录
+
+***@2018/3/19***
+
+上传第一篇DFA的代码。

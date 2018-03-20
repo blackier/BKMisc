@@ -1,0 +1,9 @@
+{sdfs
+adf}
+cin  >>{sdfsadf} x;
+{sdfsadf}
+cin>>y;
+while (cin>>z) then{sdfsadf}
+x=x z y;
+cout << x;
+end;

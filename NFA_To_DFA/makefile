@@ -1,0 +1,1 @@
+g++ -fexec-charset=GBK intArr.cpp NFA_To_DFA.CPP main.cpp -o  main.exe

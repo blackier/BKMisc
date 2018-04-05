@@ -1,0 +1,16 @@
+{1,3,}	1: 2 1 		isacceptstate:1
+{2,}	2: 1 3 		isacceptstate:1
+{4,}	3: -1 4 		isacceptstate:0
+{5,}	4: 4 3 		isacceptstate:1
+***********
+{1,3,}	1: 2 1 		isacceptstate:0
+{2,}	2: 2 3 		isacceptstate:0
+{4,}	3: 2 4 		isacceptstate:0
+{5,}	4: 2 1 		isacceptstate:1
+***********
+{1,}	1: 2 3 		isacceptstate:1
+{2,}	2: 2 4 		isacceptstate:1
+{3,}	3: 2 5 		isacceptstate:1
+{4,}	4: 2 5 		isacceptstate:1
+{5,6,}	5: 2 -1 		isacceptstate:1
+***********

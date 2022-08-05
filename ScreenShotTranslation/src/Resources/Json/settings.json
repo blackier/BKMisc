@@ -1,0 +1,25 @@
+{
+    "ocr_api":{
+        "url":"https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic",
+        "header_line":[
+            ["Content-Type"],
+            ["application/x-www-form-urlencoded"]
+        ],
+        "acess_token":{
+            "url": "https://aip.baidubce.com/oauth/2.0/token",
+            "header_line":[
+                ["Content-Type"],
+                ["application/x-www-form-urlencoded"]
+            ],
+            "entity_body":"grant_type=client_credentials&client_id=ibGCi4dIpGORMSdSq2kOa***&client_secret=HYrM2sB5yczjkgBys1F13Atb0HMNQ***"
+        }
+    },
+    "trans_api":{
+        "url":"https://fanyi-api.baidu.com/api/trans/vip/translate",
+        "header_line":[
+            ["Content-Type"],
+            ["application/x-www-form-urlencoded"]
+        ],
+        "sign_params":["20180702000182***","rw_s7zAkyihkB1l9q***","123456"]
+    }
+}
